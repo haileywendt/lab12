@@ -1,0 +1,10 @@
+﻿  lab12.cpp
+H:\lab12\lab12\lab12.cpp(157,23): warning C4018: '<': signed/unsigned mismatch
+H:\lab12\lab12\lab12.cpp(179,23): warning C4018: '<': signed/unsigned mismatch
+H:\lab12\lab12\lab12.cpp(181,15): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  8 of 168 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab12.vcxproj -> H:\lab12\Release\lab12.exe
